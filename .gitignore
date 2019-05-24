@@ -1,0 +1,11 @@
+# .gitignore
+*.atsln
+*~
+*.cci
+*.cfg
+*.cof
+*.cproj
+*.fct
+*.txt
+Debug
+Release
